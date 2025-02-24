@@ -39,4 +39,9 @@ Before running the project, set up the required environment variables.
 ```sh
 export OPENAI_API_KEY="your-api-key-here"
 ```
+## Running notebook
 
+Make sure jupyter is installed
+```sh 
+jupyter notebook
+```
